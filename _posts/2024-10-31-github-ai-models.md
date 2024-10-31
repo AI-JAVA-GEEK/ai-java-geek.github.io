@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title:  "GitHub AI Models"
 author: Nagul Meera
 ---
