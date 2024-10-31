@@ -2,6 +2,7 @@
 layout: splash
 title:  "GitHub AI Models"
 author: Nagul Meera
+author_profile: true
 ---
 
 # Welcome
