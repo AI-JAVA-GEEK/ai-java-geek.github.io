@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "GitHub AI Models"
 ---
 
 # Welcome
