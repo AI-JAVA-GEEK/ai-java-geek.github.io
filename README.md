@@ -1,2 +1,1 @@
-# AI JAVA GEEK
-Space for AI JAVA
+
