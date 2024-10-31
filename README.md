@@ -1,2 +1,2 @@
-# ai-java-geek.github.io
-ai-java-geek.github.io
+# AI JAVA GEEK
+Space for AI JAVA
