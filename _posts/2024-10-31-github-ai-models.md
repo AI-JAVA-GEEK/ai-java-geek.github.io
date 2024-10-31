@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "GitHub AI Models"
+author: Nagul Meera
 ---
 
 # Welcome
