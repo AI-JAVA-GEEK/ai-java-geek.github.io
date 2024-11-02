@@ -1,18 +1,16 @@
 ---
 layout: splash
-title:  "GitHub AI Models"
+title: "GitHub AI Models"
 author: Nagul Meera
 author_profile: true
 ---
 
 # GitHub AI Models
 
-
 ### Example of GitHub Model Usage
 
-
 ```java
-package org.example;
+package com.ai.java.geek.github.models;
 
 import com.azure.ai.inference.ChatCompletionsClient;
 import com.azure.ai.inference.ChatCompletionsClientBuilder;
@@ -37,8 +35,7 @@ public final class TestChatGptMini {
                 .buildClient();
 
         List<ChatRequestMessage> chatMessages = Arrays.asList(
-                new ChatRequestSystemMessage("What is java")/*,
-                new ChatRequestUserMessage("Can you explain the basics of machine learning?")*/
+                new ChatRequestSystemMessage("What is java?")
         );
 
         ChatCompletionsOptions chatCompletionsOptions = new ChatCompletionsOptions(chatMessages);
