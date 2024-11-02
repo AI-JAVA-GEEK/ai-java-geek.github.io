@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "GitHub AI Models usage in Java"
-author: Nagul Meera
+author: nagul_meera
 author_profile: true
 ---
 
