@@ -75,6 +75,5 @@ public final class GitHubAIModelsExample {
             <version>1.0.0-beta.2</version>
         </dependency>
     </dependencies>
-
 </project>
 ```
