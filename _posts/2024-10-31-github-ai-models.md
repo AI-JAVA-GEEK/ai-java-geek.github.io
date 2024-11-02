@@ -79,3 +79,5 @@ public final class GitHubAIModelsExample {
 ```
 
 {% include author.html %}
+
+<img src="/docs/assets/images/2024-10-31-github-ai-models/1.png" style="display: block; margin: auto;"/>
