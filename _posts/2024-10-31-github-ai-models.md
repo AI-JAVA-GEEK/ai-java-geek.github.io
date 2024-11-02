@@ -7,7 +7,8 @@ author_profile: true
 
 # GitHub AI Models
 
-### Example of GitHub Model Usage
+### Example of GitHub AI Models Usage
+#### Model : gpt-4o-mini
 
 ```java
 package com.ai.java.geek.github.models;
