@@ -77,3 +77,5 @@ public final class GitHubAIModelsExample {
     </dependencies>
 </project>
 ```
+
+{% include author.html %}
