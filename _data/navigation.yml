@@ -2,7 +2,7 @@ main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "Posts"
-    url: /pages/year-archive/
+    url: /year-archive/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
