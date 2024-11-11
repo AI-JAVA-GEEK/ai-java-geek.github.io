@@ -1,6 +1,8 @@
 ---
 title: "Posts by Year"
-permalink: /pages/year-archive/
+permalink: /year-archive/
 layout: posts
 author_profile: true
 ---
+sadsfg
+sdgfdh
